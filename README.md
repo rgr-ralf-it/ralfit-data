@@ -2,11 +2,7 @@
 
 Data corresponds to page index:
 
-{{ define "main" }}
-
 {{ partial "banner.html" . }} <- editable
-
-{{ partial "navigation.html" . }}
 
 {{ partial "about.html" . }} <- editable
 
@@ -24,6 +20,4 @@ Data corresponds to page index:
 
 {{ partial "contact.html" . }} <- editable
 
-{{ partial "map.html" . }} <- editable
 
-{{ end }}
