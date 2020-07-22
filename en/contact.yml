@@ -1,0 +1,31 @@
+############################## Contact #############################
+contact:
+  enable : true
+  title : Contact Us
+  subtitle : Contact Details
+  content : .
+
+  # Contact details
+  contact_list:
+    - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
+      info : "Gdańsk, Poland"
+      
+    - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
+      info : "Phone: +48-788-303-915"
+      
+    # - icon : ti-printer # themify icon pack : https://themify.me/themify-icons
+    #   info : "Fax: +880-31-000-000"
+      
+    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+      info : "Email: ralf-it@outlook.com"
+
+
+  # Contact form
+  contact_form:
+    enable : true
+    form_action : "#" #contact form works with https://formspree.io
+    name : "Your Name"
+    email : "Your Email"
+    subject : "Subject"
+    message : "Message"
+    submit : "Submit"

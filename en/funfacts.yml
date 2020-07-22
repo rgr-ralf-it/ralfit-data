@@ -1,0 +1,19 @@
+################################# funfacts ##################################
+funfacts:
+  enable : true
+  bg_image : "images/backgrounds/bg-white-wall.jpg"
+  bg_image_webp : "images/backgrounds/bg-white-wall.webp"
+  counter_item:
+    # counter item loop
+    - title : "Since"
+      icon : "ti-face-smile" # themify icon pack : https://themify.me/themify-icons
+      count : "2020"
+
+    # counter item loop
+    - title : "Projects"
+      icon : "ti-archive" # themify icon pack : https://themify.me/themify-icons
+      count : "17"    
+    
+    - title : "Cups of coffe"
+      icon : "ti-archive" # themify icon pack : https://themify.me/themify-icons
+      count : "321"    

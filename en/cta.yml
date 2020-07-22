@@ -1,0 +1,11 @@
+############################# call to action ##############################
+cta:
+  enable : true
+  bg_image : "images/backgrounds/bg-white-wall.jpg"
+  bg_image_webp : "images/backgrounds/bg-white-wall.webp"
+  title : "Intrested?"
+  content : "Are you customer, new sponsor, or have any questions?"
+  button:
+    enable : true
+    label : "Contact Us"
+    link : "#contact"

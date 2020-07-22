@@ -1,0 +1,23 @@
+################################# Skill ##################################
+skill:
+  enable : true
+  title : Our Sponsors
+  subtitle : ""
+  content : ""
+  image : images/about/sponsors.webp
+  skill_item :
+    # skill item loop
+    - name :  PFRSA
+      percent : 30%
+      
+    - name :  Microsoft
+      percent : 10%
+      
+    - name :  Amazon
+      percent : 10%
+      
+    - name :  Apple
+      percent : 10%
+      
+    - name :  Others
+      percent : 40%

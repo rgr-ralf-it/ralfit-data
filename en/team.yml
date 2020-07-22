@@ -1,0 +1,50 @@
+############################### team ############################
+team:
+  enable : true
+  title : Our Team
+  team_member :
+    # team member loop
+    - name : R. Grzelka
+      image_webp : images/team/rgr3d.webp
+      image : images/team/rgr3d.jpg
+      designation : CEO & Technical Head
+      content : Driving force of whole team. Like to work smart and hard. Do not like to waste time and useless people. Currently doing programming and everything else.
+      social :
+        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+    - name : D. Li
+      image_webp : images/team/dql.webp
+      image : images/team/dql.png
+      designation : AI, Public Relations & Accounting
+      content : Biggest brain of whole Team. Mathematician, strong logical mind, great at public relations. Like to save money and control finances.
+      social :
+        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+    - name : M. Medrek
+      image_webp : images/team/mdk.webp
+      image : images/team/mdk.png
+      designation : Finances & Marketing
+      content : Handsome and like gym, traveling and dietetics.
+      social :
+        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+                        
+            
