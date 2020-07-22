@@ -9,15 +9,15 @@ funfacts:
       icon : "ti-calendar" # themify icon pack : https://themify.me/themify-icons
       count : "2020"
 
-    # counter item loop
     - title : "Projects"
       icon : "ti-cup" # themify icon pack : https://themify.me/themify-icons
       count : "17"    
-    
+
+    - title : "Accumulated angriness"
+      icon : "ti-face-sad" # themify icon pack : https://themify.me/themify-icons
+      count : "7"      
+
     - title : "Cups of coffe"
       icon : "ti-rocket" # themify icon pack : https://themify.me/themify-icons
       count : "321"    
 
-    - title : "Accumulated angriness"
-      icon : "ti-face-sad" # themify icon pack : https://themify.me/themify-icons
-      count : "7"    
