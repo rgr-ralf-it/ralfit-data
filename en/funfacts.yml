@@ -13,9 +13,9 @@ funfacts:
       icon : "ti-cup" # themify icon pack : https://themify.me/themify-icons
       count : "17"    
 
-    - title : "Accumulated angriness"
+    - title : "Happiness"
       icon : "ti-face-sad" # themify icon pack : https://themify.me/themify-icons
-      count : "7"      
+      count : "-7"      
 
     - title : "Cups of coffe"
       icon : "ti-rocket" # themify icon pack : https://themify.me/themify-icons
